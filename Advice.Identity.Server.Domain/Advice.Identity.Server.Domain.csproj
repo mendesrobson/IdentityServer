@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Advice.Core.Data.Interfaces" Version="1.0.0" />
+    <PackageReference Include="Advice.Core.Domain.Interfaces" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Advice.Identity.Server.Domain.Interfaces\Advice.Identity.Server.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\Advice.Ranoi.Core.Domain\Advice.Ranoi.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

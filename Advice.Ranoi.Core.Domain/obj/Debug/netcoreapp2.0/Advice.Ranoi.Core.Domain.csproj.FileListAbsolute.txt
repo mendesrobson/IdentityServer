@@ -1,0 +1,12 @@
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\bin\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.deps.json
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\bin\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.dll
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\bin\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.pdb
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\bin\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.Interfaces.dll
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\bin\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.Interfaces.pdb
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\obj\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.csprojAssemblyReference.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\obj\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\obj\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.AssemblyInfoInputs.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\obj\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.AssemblyInfo.cs
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\obj\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.csproj.CopyComplete
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\obj\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.dll
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Domain\obj\Debug\netcoreapp2.0\Advice.Ranoi.Core.Domain.pdb

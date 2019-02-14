@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JWT" Version="4.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Advice.Ranoi.Core.Security.Domain.Interfaces\Advice.Ranoi.Core.Security.Domain.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

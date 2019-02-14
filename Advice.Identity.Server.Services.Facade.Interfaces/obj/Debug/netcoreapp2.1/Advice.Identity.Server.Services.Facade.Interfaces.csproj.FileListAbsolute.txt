@@ -1,0 +1,8 @@
+D:\Identity\Advice.Identity.Server\Advice.Identity.Server.Services.Facade.Interfaces\bin\Debug\netcoreapp2.1\Advice.Identity.Server.Services.Facade.Interfaces.deps.json
+D:\Identity\Advice.Identity.Server\Advice.Identity.Server.Services.Facade.Interfaces\bin\Debug\netcoreapp2.1\Advice.Identity.Server.Services.Facade.Interfaces.dll
+D:\Identity\Advice.Identity.Server\Advice.Identity.Server.Services.Facade.Interfaces\bin\Debug\netcoreapp2.1\Advice.Identity.Server.Services.Facade.Interfaces.pdb
+D:\Identity\Advice.Identity.Server\Advice.Identity.Server.Services.Facade.Interfaces\obj\Debug\netcoreapp2.1\Advice.Identity.Server.Services.Facade.Interfaces.csproj.CoreCompileInputs.cache
+D:\Identity\Advice.Identity.Server\Advice.Identity.Server.Services.Facade.Interfaces\obj\Debug\netcoreapp2.1\Advice.Identity.Server.Services.Facade.Interfaces.AssemblyInfoInputs.cache
+D:\Identity\Advice.Identity.Server\Advice.Identity.Server.Services.Facade.Interfaces\obj\Debug\netcoreapp2.1\Advice.Identity.Server.Services.Facade.Interfaces.AssemblyInfo.cs
+D:\Identity\Advice.Identity.Server\Advice.Identity.Server.Services.Facade.Interfaces\obj\Debug\netcoreapp2.1\Advice.Identity.Server.Services.Facade.Interfaces.dll
+D:\Identity\Advice.Identity.Server\Advice.Identity.Server.Services.Facade.Interfaces\obj\Debug\netcoreapp2.1\Advice.Identity.Server.Services.Facade.Interfaces.pdb

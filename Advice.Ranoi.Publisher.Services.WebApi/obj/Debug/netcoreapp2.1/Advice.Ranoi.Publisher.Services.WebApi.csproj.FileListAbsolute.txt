@@ -1,0 +1,14 @@
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\bin\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.deps.json
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\bin\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.runtimeconfig.json
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\bin\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.runtimeconfig.dev.json
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\bin\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.dll
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\bin\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.pdb
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\bin\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.Facade.Interfaces.dll
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\bin\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.Facade.Interfaces.pdb
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.csprojAssemblyReference.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.csproj.CoreCompileInputs.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.AssemblyInfoInputs.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.AssemblyInfo.cs
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.csproj.CopyComplete
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.dll
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.Services.WebApi\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.Services.WebApi.pdb

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Advice.Identity.Server.Domain.Interfaces\Advice.Identity.Server.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\Advice.Identity.Server.Services.Facade.Interfaces\Advice.Identity.Server.Services.Facade.Interfaces.csproj" />
+    <ProjectReference Include="..\Advice.Ranoi.Core.Data.Interfaces\Advice.Ranoi.Core.Data.Interfaces.csproj" />
+    <ProjectReference Include="..\Advice.Ranoi.Core.Security.Domain.Interfaces\Advice.Ranoi.Core.Security.Domain.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

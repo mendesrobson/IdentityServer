@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.8.1" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="2.1.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="RestSharp" Version="106.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Advice.Ranoi.Core.Data.Interfaces\Advice.Ranoi.Core.Data.Interfaces.csproj" />
+    <ProjectReference Include="..\Advice.Ranoi.Core.Data\Advice.Ranoi.Core.Data.csproj" />
+    <ProjectReference Include="..\Advice.Ranoi.Core.Domain.Interfaces\Advice.Ranoi.Core.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\Advice.Ranoi.Core.Domain\Advice.Ranoi.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

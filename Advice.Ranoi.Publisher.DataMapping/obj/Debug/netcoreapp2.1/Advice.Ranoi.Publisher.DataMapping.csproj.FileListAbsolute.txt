@@ -1,0 +1,4 @@
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.DataMapping\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.DataMapping.csprojAssemblyReference.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.DataMapping\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.DataMapping.csproj.CoreCompileInputs.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.DataMapping\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.DataMapping.AssemblyInfoInputs.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Publisher.DataMapping\obj\Debug\netcoreapp2.1\Advice.Ranoi.Publisher.DataMapping.AssemblyInfo.cs

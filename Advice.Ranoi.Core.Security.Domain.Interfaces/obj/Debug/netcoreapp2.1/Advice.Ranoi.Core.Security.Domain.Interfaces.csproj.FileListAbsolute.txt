@@ -1,0 +1,9 @@
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Security.Domain.Interfaces\bin\Debug\netcoreapp2.1\Advice.Ranoi.Core.Security.Domain.Interfaces.deps.json
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Security.Domain.Interfaces\bin\Debug\netcoreapp2.1\Advice.Ranoi.Core.Security.Domain.Interfaces.dll
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Security.Domain.Interfaces\bin\Debug\netcoreapp2.1\Advice.Ranoi.Core.Security.Domain.Interfaces.pdb
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Security.Domain.Interfaces\obj\Debug\netcoreapp2.1\Advice.Ranoi.Core.Security.Domain.Interfaces.csproj.CoreCompileInputs.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Security.Domain.Interfaces\obj\Debug\netcoreapp2.1\Advice.Ranoi.Core.Security.Domain.Interfaces.AssemblyInfoInputs.cache
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Security.Domain.Interfaces\obj\Debug\netcoreapp2.1\Advice.Ranoi.Core.Security.Domain.Interfaces.AssemblyInfo.cs
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Security.Domain.Interfaces\obj\Debug\netcoreapp2.1\Advice.Ranoi.Core.Security.Domain.Interfaces.dll
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Security.Domain.Interfaces\obj\Debug\netcoreapp2.1\Advice.Ranoi.Core.Security.Domain.Interfaces.pdb
+D:\Identity\Advice.Identity.Server\Advice.Ranoi.Core.Security.Domain.Interfaces\obj\Debug\netcoreapp2.1\Advice.Ranoi.Core.Security.Domain.Interfaces.csprojAssemblyReference.cache
